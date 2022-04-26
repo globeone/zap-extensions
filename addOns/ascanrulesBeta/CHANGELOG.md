@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## Unreleased
 ### Changed
+- Integer Overflow description improved and extra external resources added
+
+## Unreleased
+### Changed
 - Maintenance changes.
 
 ## [40] - 2022-03-15
